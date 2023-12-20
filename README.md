@@ -7,6 +7,8 @@
 
 ## Background
 
+The Serena Android app is designed to assist users in detecting their mood by capturing and sending photos. The app recognizes seven emotions – anger, disgust, fear, happiness, neutrality, sadness, and surprise. These emotions are further categorized into two moods: energetic and relaxed. The color scheme, featuring soothing green and cream tones, reflects a sense of calmness and nature. Serena goes beyond mood detection; it suggests diffuser settings based on the user's emotional state. Additionally, the app includes a song recommendation feature and a marketplace, though the latter is still in development. The app aims to enhance users' well-being by seamlessly integrating mood detection with lifestyle recommendations.
+
 ## How to set up and run
 
 Here are the steps:
