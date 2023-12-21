@@ -22,7 +22,7 @@ Here are the steps:
 5. Wait for a moment again, and the app will appear on the Android Studio emulator.
 6. Finally, you can try out the application.
 
-#UI Design
+## UI Design
 
 The UI design showcased in the Figma file at [(https://www.figma.com/file/7eJ2fFyhpNZMCJ2XAalyCZ/SerenApp-UI?type=design&node-id=4%3A15&mode=design&t=co9Pr4qD6Svtu1Vv-1)] is a carefully crafted interface for the SerenApp. Leveraging Figma's versatile design tools, this project encapsulates a user-centric approach, emphasizing seamless navigation and an aesthetically pleasing visual hierarchy. From refined color schemes to intuitive layout arrangements, every element is meticulously designed to enhance user experience. Explore the file to witness a harmonious blend of creativity and functionality, ensuring a delightful interaction for SerenApp users.
 
