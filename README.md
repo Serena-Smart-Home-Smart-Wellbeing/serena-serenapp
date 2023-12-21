@@ -1,5 +1,7 @@
 # Serena Android App
 
+|![Screenshot_2023-12-21-19-58-35-397_com example serena]|![Screenshot_2023-12-21-17-29-16-274_com example serena]|![Screenshot_2023-12-21-17-29-20-800_com example serena]|
+
 - [Serena Android App](#serena-Android-App)
   - [Background](#background)
   - [How to set up and run](#how-to-set-up-and-run)
