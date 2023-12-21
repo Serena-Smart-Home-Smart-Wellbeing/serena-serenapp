@@ -1,5 +1,8 @@
 # Serena Android App
 
+![Screenshot_2023-12-21-19-58-35-397_com example serena](https://github.com/Serena-Smart-Home-Smart-Wellbeing/serena-android-app/assets/135785712/24007ca8-1b70-44ec-8860-4f8881209fb7)
+![Screenshot_2023-12-21-17-29-16-274_com example serena](https://github.com/Serena-Smart-Home-Smart-Wellbeing/serena-android-app/assets/135785712/61e8fa63-8403-433d-aef9-bb0a28adc623)
+![Screenshot_2023-12-21-17-29-20-800_com example serena](https://github.com/Serena-Smart-Home-Smart-Wellbeing/serena-android-app/assets/135785712/ecb5da16-0484-4ede-a1d1-7d9d7cdaf9e1)
 
 - [Serena Android App](#serena-Android-App)
   - [Background](#background)
