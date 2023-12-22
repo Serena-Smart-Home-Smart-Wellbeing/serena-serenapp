@@ -1,6 +1,6 @@
-# Serena Android App
+# SerenApp
 
-- [Serena Android App](#serena-android-app)
+- [SerenApp](#serenapp)
   - [Background](#background)
   - [Features](#features)
     - [User Accounts](#user-accounts)
