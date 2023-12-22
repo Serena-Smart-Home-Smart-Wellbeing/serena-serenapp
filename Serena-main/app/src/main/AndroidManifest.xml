@@ -22,19 +22,19 @@
         android:theme="@style/Theme.Serena"
         tools:targetApi="31">
         <activity
-            android:name=".RegisterActivity"
+            android:name="com.example.serena.UI.Auth.RegisterActivity"
             android:exported="false" />
         <activity
-            android:name=".MainActivity"
+            android:name="com.example.serena.UI.MainActivity"
             android:exported="false" />
         <activity
-            android:name=".LoginActivity"
+            android:name="com.example.serena.UI.Auth.LoginActivity"
             android:exported="false" />
         <activity
-            android:name=".WelcomeActivity"
+            android:name="com.example.serena.UI.Auth.WelcomeActivity"
             android:exported="false" />
         <activity
-            android:name=".SplashActivity"
+            android:name="com.example.serena.UI.Auth.SplashActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
