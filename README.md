@@ -35,8 +35,8 @@ delete their account and all of their data.
 | :----------------------------------------: |  :----------------------------------------: |:-----------------------------------------------------: |
 
 In the `Home` menu, users can pair their SerenBox using its MAC address. Once paired, the user can
-see a list of all thier SerenBox and see their details. Users can turn on their SerenBox
-by running configuring and running sessions from the SerenBox details menu. This feature
+see a list of all their SerenBox and see their details. Users can turn on their SerenBox
+by configuring and running sessions from the SerenBox details menu. This feature
 is the only feature that relies on a SerenBox to work, the other features can be used
 without a SerenBox.
 
@@ -45,7 +45,7 @@ without a SerenBox.
 | ![SerenBox Configuration](<demo/images/SerenBox Configuration.png>)  | ![SerenBox Session](<demo/images/SerenBox Session.png>) |
 | :-----------------------------------------------------: |:-----------------------------------------------------: |
 
-SerenApp allows the user to run SerenBox sessions where SerenBox will activate to diffuse the essential oils based on the users emotions.
+SerenApp allows the user to run SerenBox sessions where SerenBox will activate to diffuse the essential oils based on the user's emotions.
 Before running a session, the user can configure their session's duration, detection mode, and diffusion option.
 A session only runs for the duration or until the user stops it.
 
@@ -142,5 +142,5 @@ also checkout our [user flows in Figma](https://www.figma.com/file/xAC1bh7b1L6UA
 
 | Name                    | Student ID       | Contribution                                                                                                                                                                                                                                       |
 | ----------------------- | ---------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Muhammad Najib Izzulhaq | (MD) A548BKY4498 | Created Serena's UI using Figma and brought the design to life in Android Studio. This smooth integration guarantees a seamless shift from design to Serena app development, maintaining consistency and efficiency throughout the entire process. |
+| Muhammad Najib Izzulhaq | (MD) A548BKY4498 | Designed Serena UI in Figma. Use Kotlin and Android Studio to develop SerenApp. Test SerenApp. |
 |      Muhammad Reyhan Ardiya Putra Wijaya      | (CC) C200BSY3485 | Created user flows. Created UI wireframe and prototype. |
